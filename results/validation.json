@@ -1,0 +1,13 @@
+{
+  "code_cells": 20,
+  "figure_count": 12,
+  "python": "3.9.6",
+  "numpy": "2.0.2",
+  "scipy": "1.13.1",
+  "matplotlib": "3.9.4",
+  "max_normalisation_error": 1.709743457922741e-13,
+  "max_window_relative_change": 1.5210055437364645e-14,
+  "B_e": 1.9328279046800303,
+  "alpha_e": 0.017013671656358125,
+  "re_fit_pm": 112.78702600040852
+}

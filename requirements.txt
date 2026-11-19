@@ -1,0 +1,6 @@
+# Versions used for verification are recorded in results/validation.json.
+numpy>=1.23,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+ipykernel>=6,<7
+jupyterlab>=4,<5

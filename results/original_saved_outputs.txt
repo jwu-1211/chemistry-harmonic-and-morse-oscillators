@@ -1,0 +1,29 @@
+Historical saved standard output, extracted before preparation.
+The original also recorded an overflow warning during Morse plotting.
+
+Original cell 8
+The integration of (ϕ₂(x))² is 1.00
+
+Original cell 27
+Value of p = 163.3
+Value of β = 2.325e+10 m⁻¹ or 2.325 Å⁻¹
+
+Original cell 41
+The value of B̃ᵥ is 1.924 cm⁻¹ for v=0
+The value of B̃ᵥ is 1.907 cm⁻¹ for v=1
+The value of B̃ᵥ is 1.890 cm⁻¹ for v=2
+The value of B̃ᵥ is 1.873 cm⁻¹ for v=3
+The value of B̃ᵥ is 1.856 cm⁻¹ for v=4
+The value of B̃ᵥ is 1.839 cm⁻¹ for v=5
+The value of B̃ᵥ is 1.822 cm⁻¹ for v=6
+The value of B̃ᵥ is 1.805 cm⁻¹ for v=7
+The value of B̃ᵥ is 1.788 cm⁻¹ for v=8
+The value of B̃ᵥ is 1.771 cm⁻¹ for v=9
+
+Original cell 43
+The intercept is the rotational constant B̃ₑ = 1.933±0.0001 cm⁻¹
+The gradient is α̃ = -0.0170±0.0000
+The r² value for this linear regression line is 1.0000
+
+Original cell 46
+The value of rₑ is 112.8 pm
