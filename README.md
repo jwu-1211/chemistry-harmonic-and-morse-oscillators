@@ -2,7 +2,7 @@
 
 **Judy Wu · Experiment C3 — IB Chem A**
 
-A computational chemistry coursework project exploring molecular vibration with Python. It compares harmonic and Morse wave functions, calculates probability distributions and expectation values, and estimates vibration–rotation coupling for a CO model.
+My computational chemistry coursework project exploring molecular vibration with Python. It compares harmonic and Morse wave functions, calculates probability distributions and expectation values, and estimates vibration–rotation coupling for a CO model.
 
 ## What this project demonstrates
 
